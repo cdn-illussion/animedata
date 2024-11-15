@@ -10,20 +10,20 @@
     "player_url": "https://example.com/player"
   },
   {
-    "id": 100146,
-    "title_ru": "illussion cdn test",
-    "title_en": "Title",
-    "description": "Описание аниме",
-    "data_drop": 2022,
-    "anime_genres": ["Экшен", "Комедия"],
-    "poster_original": "https://example.com/poster.jpg",
+    "id": 200146,
+    "title_ru": "Тетрадь Смерти",
+    "title_en": "Death Note",
+    "description": "Но все ли так просто в этой истории? Не совсем, отвечу я вам. Таинственная тетрадь дает возможность стать всемогущественным Кирой (убийцей). А подробно изучив все правила всемогущей тетради, можно вообще стать неуязвимым. В истории также незаметно появляется некий Эл, но о нем известно мало. Он, сохраняя статус тайного агента, успешно помогает Интерполу распутывать самые трудные дела и ловит преступников, где бы они ни находились. Так что же в итоге получится? Сумеют ли, эти двое договорится и найти компромисс? Не знаю... Думаю для этого стоит посмотреть аниме полностью.",
+    "data_drop": 2006,
+    "anime_genres": ["Детектив", "Мистика", "Триллер"],
+    "poster_original": "https://raw.githubusercontent.com/cdn-illussion/cnd2.illussion.fun/main/cb6ac6f3/photo_2024-11-15_20-38-40.jpg",
     "videos": [
       {
         "episode": 1,
         "fhd": null,
-        "hd": "https://cache.libria.fun/videos/media/ts/3982/1/720/dd6eda1a6621ba2ef43f77b402d1f7e4.m3u8",
-        "sd": "https://cache.libria.fun/videos/media/ts/3982/1/480/580cfdc2ecac1a4998c7bf9e73cf796a.m3u8",
-        "alternative_player_url": "/videos/media/ts/3982/1/480/580cfdc2ecac1a4998c7bf9e73cf796a.m3u8"
+        "hd": "https://raw.githubusercontent.com/cdn-illussion/cnd2.illussion.fun/main/cb6ac6f3/playlist.m3u8",
+        "sd": null,
+        "alternative_player_url": null
       }
     ]
   }
