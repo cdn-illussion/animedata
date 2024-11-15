@@ -24,7 +24,35 @@
         "hd": "https://raw.githubusercontent.com/cdn-illussion/cnd2.illussion.fun/main/cb6ac6f3/playlist.m3u8",
         "sd": null,
         "alternative_player_url": null
-      }
+      },
+      {
+        "episode": 2,
+        "fhd": null,
+        "hd": "https://raw.githubusercontent.com/cdn-illussion/cnd2.illussion.fun/main/3afeeb76/playlist.m3u8",
+        "sd": null,
+        "alternative_player_url": null
+      },
+      {
+        "episode": 3,
+        "fhd": null,
+        "hd": "https://raw.githubusercontent.com/cdn-illussion/cnd2.illussion.fun/main/23559dc0/playlist.m3u8",
+        "sd": null,
+        "alternative_player_url": null
+      },
+      {
+        "episode": 4,
+        "fhd": null,
+        "hd": "https://raw.githubusercontent.com/cdn-illussion/cnd2.illussion.fun/main/8e09aedd/playlist.m3u8",
+        "sd": null,
+        "alternative_player_url": null
+      },
+      {
+        "episode": 5,
+        "fhd": null,
+        "hd": "https://raw.githubusercontent.com/cdn-illussion/cnd2.illussion.fun/main/0324537a/playlist.m3u8",
+        "sd": null,
+        "alternative_player_url": null
+      },
     ]
   }
 ]
