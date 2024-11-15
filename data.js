@@ -53,6 +53,19 @@
         "sd": null,
         "alternative_player_url": null
       },
+      {
+        "episode": 6,
+        "fhd": null,
+        "hd": "https://raw.githubusercontent.com/cdn-illussion/cnd2.illussion.fun/main/bacc2d1c/playlist.m3u8",
+        "sd": null,
+        "alternative_player_url": null
+      },
+      "episode": 7,
+        "fhd": null,
+        "hd": "https://raw.githubusercontent.com/cdn-illussion/cnd2.illussion.fun/main/5237bae2/playlist.m3u8",
+        "sd": null,
+        "alternative_player_url": null
+      },
     ]
   }
 ]
