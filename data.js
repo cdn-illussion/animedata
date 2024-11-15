@@ -11,7 +11,7 @@
   },
   {
     "id": 100012,
-    "title_ru": "Порно",
+    "title_ru": "illussion cdn test",
     "title_en": "Title",
     "description": "Описание аниме",
     "data_drop": 2022,
